@@ -10,7 +10,7 @@ cabal install -j
 ## Run it
 
 ```
-.cabal-sandbox/bin/minesweeper/
+cabal run
 ```
 
 
